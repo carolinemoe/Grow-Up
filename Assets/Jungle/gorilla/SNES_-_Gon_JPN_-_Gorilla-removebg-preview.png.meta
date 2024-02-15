@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: ba664cbc197fbc84a8b1084b8b0a405d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 123
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee260c4990b80d4e8e899e65683263a
+      internalID: 145183907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 123
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89eedf52487cb49949a21227bed1b0
+      internalID: -618542168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 124
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24dff1e82fbe88469ba91e1e4a67e73
+      internalID: -1021917916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 123
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07e69da84ce49944938a60c49875205
+      internalID: -1938685308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 123
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff75a517300c940b100f8d13b0491b
+      internalID: 1574314386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 123
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadfd27f171e0454b972c03d47fba2bd
+      internalID: -137568568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 123
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7b64086e01b144a7529ab8e09623d
+      internalID: 130911069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 123
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3bfff405fb9fb4ab271f182b7d23e9
+      internalID: -611933720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 123
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab07250bad7132f4ead6a4830dbd2c75
+      internalID: -1335926978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 69
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc15059ee5eaac499b9af50731f2c9f
+      internalID: -574559865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71feae3f1da3ba749858b1505737b49e
+      internalID: -226391748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 66
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2377c9ce9bbcd140a1d632c357d7dfd
+      internalID: -1028279467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 63
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2451bed5f2cc26446b7cacbc3306d013
+      internalID: 293181821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 66
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4f66c73babdac488f96f3d1ff76576
+      internalID: -2099723637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 67
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc76285b6ffd42458f85e9c744cc670
+      internalID: -1267229377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 66
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a22b84b0db624881e82f182a40596
+      internalID: -1865810964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 69
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ef3e1a3bfe6324293df7e29134077d
+      internalID: -1437179021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dabd4e79950a66409f7870bdfb50c47
+      internalID: -733103966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2812b57a6ffb28d4cb8a0f7f6dc9bd76
+      internalID: -526143900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 6
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05d9f4cd64b5054f8babd20f960c35e
+      internalID: 1678411391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dedb826796aa048ae6278418c2be59
+      internalID: -2025468456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699b1b6e068ab1a41ae66e72c002951e
+      internalID: -1978786812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ead0520bb5a1846b267164cfbdbcb0
+      internalID: 1549595464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d32f4b447e13b64e91cb06165bbd6d0
+      internalID: -696063536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Gon_JPN_-_Gorilla-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a0a2b3864f25d4086915af74efb41b
+      internalID: 1193880949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_0: 145183907
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_1: -618542168
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_10: -226391748
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_11: -1028279467
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_12: 293181821
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_13: -2099723637
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_14: -1267229377
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_15: -1865810964
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_16: -1437179021
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_17: -733103966
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_18: -526143900
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_19: 1678411391
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_2: -1021917916
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_20: -2025468456
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_21: -1978786812
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_22: 1549595464
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_23: -696063536
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_24: 1193880949
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_3: -1938685308
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_4: 1574314386
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_5: -137568568
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_6: 130911069
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_7: -611933720
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_8: -1335926978
+      SNES_-_Gon_JPN_-_Gorilla-removebg-preview_9: -574559865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

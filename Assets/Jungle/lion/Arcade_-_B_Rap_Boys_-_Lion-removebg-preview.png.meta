@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: 37b395924a5c22c4b9ffc576a650956c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 281
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90eae02df08124bb12eafc7e2cb7e0
+      internalID: -1059374719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38cda309a1cd6a4197969811be7dd4b
+      internalID: 318115975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 8
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4a4869afd5dc34b8f08fc03f190dff
+      internalID: -1346365998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 281
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8cbb23906f77e449c04656da75be57
+      internalID: 882513865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 281
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ce549bb080f84983b41b21e539be8
+      internalID: -341271886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 281
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 54, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ffbf7a08594741ba3c9cee34360e4
+      internalID: -1341659387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 284
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b1657b19df1b747ab7403d154c095a
+      internalID: 1998028428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 281
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c34cc74c29282144a4cf785e03dfd2d
+      internalID: -1867099620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 233
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e90df01b9b5cc04b8df18079da29567
+      internalID: -1612699145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 233
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2e2bd53c8f1f44b3fef747a7093fa
+      internalID: 1302124230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 232
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c932945fd2857d4384b6335800623fe
+      internalID: -897832189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 233
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2623f9241c5c643bd4cc977c22c952
+      internalID: 189390917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 232
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4859f83b29ec3499ba48fc03961fab
+      internalID: 1768586318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 234
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d3208d5447844daf81f1d7a6ac004
+      internalID: 408993136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 233
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b7a8a52d7cdd4da5cf8ba523b10bc
+      internalID: 1330509177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 234
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f837e53d0223f4d81682e7a7590aa4
+      internalID: -1331671100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 179
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783e856a29a515449fcae36afa9c2e7
+      internalID: 772440810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 186
+        width: 100
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bdfb4953642de4bb7ee5a2124371d9
+      internalID: -1822338430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 184
+        width: 115
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef20a02ced71bf469575bff262dd313
+      internalID: 1981000593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a006bb24a2f0d4593a2ef2dbf1d782
+      internalID: 973339482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6a900e136854b4d9d2c588c11ebdad
+      internalID: 652748144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 185
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b467f8ea4dd77b49b54742a6bc52f3a
+      internalID: 1922379702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 135
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f006c6ca8031b5a4da9afbaec8ba3975
+      internalID: 337813750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 133
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cea2897df456df4582e01769116d1f4
+      internalID: -153272984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 134
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224f364cafb5814b86534fe1ac70565
+      internalID: 1300118967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 134
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e315b10775b344b68d24de72c0898
+      internalID: -251378374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1cd4c0e971a09428394c6ecbe397ce
+      internalID: 1322985453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 80
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f778b36f27050de43be3c5da930e2642
+      internalID: 303593375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 83
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2470add6d33fd3547884a25d43f20ec2
+      internalID: -746363592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 77
+        width: 89
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001d16ff4cbd2804387c0b7e546f167a
+      internalID: -794649394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 81
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a66ecdc5183a04a807daa3cac74c9c
+      internalID: -1415680707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 76
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9418a73693d95a64fa30ab0d7454455a
+      internalID: -783686576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0afc8ecc1dfe84ababb34ed413a9ab
+      internalID: -1191086498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c87e8c73f31e14ea6cfc03d2188cd3
+      internalID: -1665833207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8102a29e23ef4da19472a98fb4d9f
+      internalID: -1578839510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 26
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932e97b2997b4844b8aff9787f569e1a
+      internalID: -999537940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5
+        width: 1
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e1c51ba12d62b4193e10e9e2a427a3
+      internalID: -527776621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 85
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d2278ec72838941bf0e87417e3bdd1
+      internalID: 1542094294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_0: -1059374719
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_1: 318115975
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_10: -897832189
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_11: 189390917
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_12: 1768586318
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_13: 408993136
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_14: 1330509177
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_15: -1331671100
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_16: 772440810
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_17: -1822338430
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_18: 1981000593
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_19: 973339482
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_2: -1346365998
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_20: 652748144
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_21: 1922379702
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_22: 337813750
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_23: -153272984
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_24: 1300118967
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_25: -251378374
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_26: 1322985453
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_27: 303593375
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_28: -746363592
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_29: -794649394
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_3: 882513865
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_30: -1415680707
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_31: -783686576
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_32: -1191086498
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_33: -1665833207
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_34: -1578839510
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_35: -999537940
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_36: -527776621
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_37: 1542094294
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_4: -341271886
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_5: -1341659387
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_6: 1998028428
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_7: -1867099620
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_8: -1612699145
+      Arcade_-_B_Rap_Boys_-_Lion-removebg-preview_9: 1302124230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
